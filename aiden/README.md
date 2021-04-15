@@ -15,3 +15,5 @@ This is the cool work from the coding book.
  [code skills `variables`](variable.html)
 
  [code skills if statements](ifstatements.html)
+
+ [code skills else if statements](elseifstatements.html)
