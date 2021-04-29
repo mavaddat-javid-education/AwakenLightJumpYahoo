@@ -17,3 +17,7 @@ These are the coding exercises which have been completed from *Get Coding*! (Lin
 [Code Skills `If Statements`](ifstatements.html)
 
 [Code Skills `Else Statements`](elsestatements.html)
+
+[Code Skills `Functions`](functions.html)
+
+### Mission 3
