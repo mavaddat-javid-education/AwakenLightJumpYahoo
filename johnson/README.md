@@ -8,7 +8,7 @@ These are the coding exercises which have been completed from *Get Coding*! (Lin
 
 ### Mission 1
 
-[Mission 1](mission1.html)
+[Code Skills `Mission 1`](mission1.html)
 
 ### Mission 2
 
@@ -19,5 +19,7 @@ These are the coding exercises which have been completed from *Get Coding*! (Lin
 [Code Skills `Else Statements`](elsestatements.html)
 
 [Code Skills `Functions`](functions.html)
+
+[Code Skills `Zebu Challenge`](zebu.html)
 
 ### Mission 3
