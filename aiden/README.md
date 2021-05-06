@@ -12,11 +12,12 @@ This is the cool work from the coding book.
 
 ### Mission 2
 
-[code skills `variables`](variable.html)
+[code skills variables](variable.html)
 
 [code skills if statements](ifstatements.html)
 
 [code skills else if statements](elseifstatements.html)
 
 [code skills functions](functions.html)
+[Zebu Challenge](zebu.html)
 
