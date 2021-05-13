@@ -24,6 +24,8 @@ These are the coding exercises which have been completed from *Get Coding*! (Lin
 
 [Code Skills `onclick`](onclick.html)
 
+
+
 ### **Mission 3**
 
 ###### Coming soon...
