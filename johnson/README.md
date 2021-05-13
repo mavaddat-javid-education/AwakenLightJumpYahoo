@@ -22,9 +22,9 @@ These are the coding exercises which have been completed from *Get Coding*! (Lin
 
 [Code Skills `Zebu Challenge`](zebu.html)
 
-[Code Skills `onclick`](onclick.html)
+[Code Skills `Onclick`](onclick.html)
 
-
+[Code Skills `Racoon Challenge`](racoon.html)
 
 ### **Mission 3**
 
